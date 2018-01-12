@@ -1,0 +1,10 @@
+
+NewHope512/NewHope1024 optimizations for MIPS64r3
+=================================================
+
+common: common files to both NH1024/NH512  
+NH1024: make for obtaining test1024 in test/
+NH512: make for obtaining test512 in test/  
+README: This file
+test: once compiled NH1024/NH512 it contains
+      tests and cpucycles estimation procedures
